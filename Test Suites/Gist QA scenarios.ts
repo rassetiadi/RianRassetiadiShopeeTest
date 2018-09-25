@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Gist QA scenarios</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-09-26T00:32:59</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>037f3e01-9510-4007-9de0-ba78b0e94704</testSuiteGuid>
+   <testCaseLink>
+      <guid>6f157d74-b20a-437e-b7b5-9434ebe4992a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>eca84aca-e496-425b-933e-b06c0f8ad41d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ca59cfb8-a44b-4bb1-a4b3-2e25427f5424</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>622f6611-55b9-498d-99b7-c37ea14c93b1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Gist/As a user I want to create a public gist</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a755a139-0455-45cb-8729-40b6b084363c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9d47954e-ab51-4abc-8aba-0804383991e4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d4532db2-27a4-461b-bd36-40671ab477dd</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e3496524-e481-4d44-be6b-766ba3cbf217</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Gist/As a user I want to see my list of gists</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3f10aaed-e1cb-4113-a6b4-e21340b083fd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Gist/As a user I want to edit an existing gist</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c4e9c0e4-2c06-4153-bda1-017cfdb6ea25</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>00f0e317-f6cf-4f88-9854-124f6062cb46</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c4e1b75f-a379-4437-b57a-383a786d773d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>364802a4-de1b-41fc-8578-bce4e0f29146</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Gist/As a user I want to delete an existing gist</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

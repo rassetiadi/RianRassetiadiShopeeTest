@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>As a user I want to create a public gist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af218e06-6c90-4a5d-b3f9-dcb32f901db2</testCaseGuid>
+   <variable>
+      <defaultValue>'This is Rian public Gist'</defaultValue>
+      <description></description>
+      <id>a755a139-0455-45cb-8729-40b6b084363c</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rian Rassetiadi Gist'</defaultValue>
+      <description></description>
+      <id>9d47954e-ab51-4abc-8aba-0804383991e4</id>
+      <masked>false</masked>
+      <name>filename</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hello Shopee!'</defaultValue>
+      <description></description>
+      <id>d4532db2-27a4-461b-bd36-40671ab477dd</id>
+      <masked>false</masked>
+      <name>content</name>
+   </variable>
+</TestCaseEntity>

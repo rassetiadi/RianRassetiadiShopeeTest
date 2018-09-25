@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>As a user I want to see my list of gists</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a8cf979-8141-4b8e-86c5-022d40e29a5b</testCaseGuid>
+</TestCaseEntity>

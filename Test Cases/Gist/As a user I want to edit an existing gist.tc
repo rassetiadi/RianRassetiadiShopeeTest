@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>As a user I want to edit an existing gist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b89b580d-8d02-423a-a9b5-28f858067459</testCaseGuid>
+   <variable>
+      <defaultValue>'This is Rian public Gist for Shopee'</defaultValue>
+      <description></description>
+      <id>c4e9c0e4-2c06-4153-bda1-017cfdb6ea25</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rian Rassetiadi Gist for Shopee'</defaultValue>
+      <description></description>
+      <id>00f0e317-f6cf-4f88-9854-124f6062cb46</id>
+      <masked>false</masked>
+      <name>filename</name>
+   </variable>
+   <variable>
+      <defaultValue>'My Name is Rian'</defaultValue>
+      <description></description>
+      <id>c4e1b75f-a379-4437-b57a-383a786d773d</id>
+      <masked>false</masked>
+      <name>content</name>
+   </variable>
+</TestCaseEntity>
